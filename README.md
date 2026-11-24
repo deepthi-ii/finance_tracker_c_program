@@ -1,4 +1,4 @@
-https://rupee-sense-mocha.vercel.app/
+
 
 
 RupeeSense is a personal finance management web application designed to help users manage their income, expenses, savings goals, and shared expenses.
